@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WebAPI">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebAPI</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="WebAPI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WebAPI" />
+        </element>
+        <element id="directory" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
