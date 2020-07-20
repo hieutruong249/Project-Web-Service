@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="t_m_nh_n_vi_n" translatable="false">Tìm nhân viên</string>
+</resources>

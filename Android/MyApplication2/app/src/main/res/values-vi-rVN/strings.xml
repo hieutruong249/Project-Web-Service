@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="t_m_nh_n_vi_n">TÌM NHÂN VIÊN</string>
+    <string name="t_n_nh_n_vi_n">Tên nhân viên:</string>
+    <string name="nh_p_t_n_nh_n_vi_n">nhập tên nhân viên</string>
+</resources>
